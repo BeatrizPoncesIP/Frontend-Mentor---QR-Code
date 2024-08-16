@@ -4,8 +4,8 @@ Esta é uma solução para o [desafio de componente de código QR no Frontend Me
 
 ## Índice
 
-- [Visão geral](#visão geral)
-- [Captura de tela](#captura de tela)
+- [Visão geral](#visão-geral)
+- [Captura de tela](#captura-de-tela)
 - [Links](#links)
 - [Meu processo](#meu-processo)
 - [Construído com](#construído-com)
@@ -22,8 +22,8 @@ Projeto simples para aprender o básico de HTML e CSS.
 
 ### Links
 
-- URL da solução: [Adicione a URL da solução aqui](https://your-solution-url.com)
-- URL do site ativo: [Adicione a URL do site ativo aqui](https://your-live-site-url.com)
+- URL da solução: [https://www.frontendmentor.io/solutions/pgina-frontend-mentor-qr-code-tRhLob7lr_](https://www.frontendmentor.io/solutions/pgina-frontend-mentor-qr-code-tRhLob7lr_)
+- URL do site ativo: [https://beatrizponcesip.github.io/Frontend-Mentor---QR-Code/](https://beatrizponcesip.github.io/Frontend-Mentor---QR-Code/)
 
 ## Meu processo
 
@@ -35,7 +35,7 @@ Projeto simples para aprender o básico de HTML e CSS.
 
 ### O que aprendi
 
-Neste projeto eu aprendi a colocar o texto em bold utilizando font-weight: 
+Neste projeto eu aprendi a colocar o texto em bold utilizando font-weight no css: 
 ```css
 h1 {
     font-weight: bold;
